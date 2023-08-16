@@ -1,3 +1,17 @@
+body {
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 6rem;
+}
+
+.card-img-top {
+  height: 250px;
+
+  object-fit: cover;
+  object-position: center;
+}
 
 /* 
 
