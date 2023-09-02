@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Navbar from "./Navbar.jsx";
-import Navigator from "./Navigator.jsx";
 import Card from "./Card.jsx";
 import Footer from "./Footer.jsx";
 import Navigator from "./Navigator.jsx";
